@@ -1,0 +1,33 @@
+.child {
+    margin-bottom: -100px;
+}
+ul {
+    height: 825px;
+    line-height: 50px;
+    width: 223px;
+    background-image: linear-gradient(0deg, #1fab8a, #6f42c1);
+    margin-top: 0px;
+    /* margin-bottom: 0px; */
+    padding-top: 200px;
+    list-style: none;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    position: relative;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+img {
+    height: 190px;
+    margin-bottom: -95px;
+    padding-left: 15px;
+    /* padding-top: -15px; */
+}
+li {
+    display: list-item;
+    text-align: match-parent; 
+}
