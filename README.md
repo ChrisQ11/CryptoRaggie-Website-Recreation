@@ -12,3 +12,4 @@ Problems
 2. Alignment of list items is not equal to the list items on the original page
 3. Need a content delivery library to use the proper icons. Will dowload at a later time
 4. Could not find font-style nor font-size using "inspect" on the original website
+  -SOLVED: I put the image into a link tag and adjusted margin-left to -25px
