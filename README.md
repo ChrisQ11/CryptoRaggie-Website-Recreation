@@ -9,6 +9,7 @@ Next step was to shift the items down so I increased the line height of the list
 
 Problems
 1. could not close gap between top of purple bar and top of page
+  -SOLVED: see point 4
 2. Alignment of list items is not equal to the list items on the original page
 3. Need a content delivery library to use the proper icons. Will dowload at a later time
 4. Could not find font-style nor font-size using "inspect" on the original website
