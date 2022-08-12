@@ -1,31 +1,20 @@
-.child {
-    margin-bottom: -100px;
-}
 ul {
-    height: 825px;
+    height: 1000px;
     line-height: 50px;
     width: 223px;
     background-image: linear-gradient(0deg, #1fab8a, #6f42c1);
-    margin-top: 0px;
-    /* margin-bottom: 0px; */
+    margin-top: -175px;
     padding-top: 200px;
     list-style: none;
     font-weight: 700;
-    font-size: 15px;
+    font-size: 14px;
     color: #fff;
     font-family: 'Poppins', sans-serif;
+    position: fixed;
 }
-body {
-    position: relative;
-    margin-top: 0px;
-    margin-left: 0px;
-    margin-bottom: 0px;
-}
-img {
+.nav-bar-image {
     height: 190px;
-    margin-bottom: -95px;
-    padding-left: 15px;
-    /* padding-top: -15px; */
+    margin-left: -25px;
 }
 li {
     display: list-item;
